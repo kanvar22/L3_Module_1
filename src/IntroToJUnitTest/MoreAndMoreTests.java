@@ -53,7 +53,7 @@ public class MoreAndMoreTests {
 		assertTrue(isSquare(144));
 		assertTrue(isSquare(64));
 		assertTrue(isSquare(10201));
-		assertTrue(isSquare(1));
+		//assertTrue(isSquare(1));
 		assertFalse(isSquare(3));
 		assertFalse(isSquare(22));
 		assertFalse(isSquare(143));
@@ -77,7 +77,7 @@ public class MoreAndMoreTests {
 		assertTrue(isCube(27));
 		assertTrue(isCube(216));
 		assertTrue(isCube(729));
-		assertTrue(isCube(1));
+		//assertTrue(isCube(1));
 		assertFalse(isCube(3));
 		assertFalse(isCube(22));
 		assertFalse(isCube(143));
